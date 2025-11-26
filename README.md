@@ -1,1 +1,1 @@
-# bootdotdev-asteroid-game
+# An asteroid game using pygame.
